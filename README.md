@@ -1,7 +1,7 @@
 # MNXB01-Learn
 
 Once upon a time,
-there was a **fierce** _ogre_
+there was a **happy and friendly** _ogre_
 
 ```
 Ogre
